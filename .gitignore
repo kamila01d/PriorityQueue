@@ -3,3 +3,4 @@ CMakeLists.txt
 set_tests
 queue_tests
 .idea
+.gitignore
